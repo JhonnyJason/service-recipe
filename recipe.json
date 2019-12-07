@@ -17,7 +17,7 @@
         ["merge", "create"],
         {
             "create": ["sources"],
-            "merge": ["https://github.com/JhonnyJason/machine-sample-sources", "*"]
+            "merge": ["https://github.com/JhonnyJason/service-sample-sources", "*"]
         }
     ],
     "output": [
