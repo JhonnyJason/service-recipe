@@ -16,7 +16,7 @@
         ["submodule"],
         ["merge", "create"],
         {
-            "create": ["sources"],
+            "create": ["servicesources"],
             "merge": ["https://github.com/JhonnyJason/service-sample-sources", "*"]
         }
     ],
@@ -31,7 +31,7 @@
         ["directory"],
         ["merge"],
         {
-            "merge": ["https://gitlab.com/lenny09918050/lenny-unlicense", "*"]
+            "merge": ["https://github.com/JhonnyJason/servicetesting-template.git", "*"]
         }
     ]
 }
