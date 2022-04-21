@@ -24,7 +24,7 @@
         ["submodule"],
         ["merge"],
         {
-            "merge": ["https://github.com/JhonnyJason/lenny-unlicense"]
+            "merge": ["https://github.com/JhonnyJason/empty-base"]
         }
     ],
     "testing": [
